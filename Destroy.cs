@@ -7,7 +7,7 @@ public class Destroy : MonoBehaviour
     // Start is called before the first frame update
     void Start()
     {
-        // команда удалить объект в котором находится скрипт сразу после запуска игры
+        // РєРѕРјР°РЅРґР° СѓРґР°Р»РёС‚СЊ РѕР±СЉРµРєС‚ РІ РєРѕС‚РѕСЂРѕРј РЅР°С…РѕРґРёС‚СЃСЏ СЃРєСЂРёРїС‚ СЃСЂР°Р·Сѓ РїРѕСЃР»Рµ Р·Р°РїСѓСЃРєР° РёРіСЂС‹
         Destroy(gameObject);
         print("successful");
 
