@@ -7,7 +7,7 @@ public class CreatePrimitives : MonoBehaviour
     // Start is called before the first frame update
     void Start()
     {
-        // строчки кода создает новый игровой объект, примитив, форма или тип примитива - куб с указанием позиций так, чтобы в итоге получилась фигура Стива из Майнкрафта
+        // СЃС‚СЂРѕС‡РєРё РєРѕРґР° СЃРѕР·РґР°РµС‚ РЅРѕРІС‹Р№ РёРіСЂРѕРІРѕР№ РѕР±СЉРµРєС‚, РїСЂРёРјРёС‚РёРІ, С„РѕСЂРјР° РёР»Рё С‚РёРї РїСЂРёРјРёС‚РёРІР° - РєСѓР± СЃ СѓРєР°Р·Р°РЅРёРµРј РїРѕР·РёС†РёР№ С‚Р°Рє, С‡С‚РѕР±С‹ РІ РёС‚РѕРіРµ РїРѕР»СѓС‡РёР»Р°СЃСЊ С„РёРіСѓСЂР° РЎС‚РёРІР° РёР· РњР°Р№РЅРєСЂР°С„С‚Р°
         GameObject.CreatePrimitive(PrimitiveType.Cube).transform.position = new Vector3(0, 0, 0);
         GameObject.CreatePrimitive(PrimitiveType.Cube).transform.position = new Vector3(-0.5f, 1, 0);
         GameObject.CreatePrimitive(PrimitiveType.Cube).transform.position = new Vector3(0.5f, 1, 0);
