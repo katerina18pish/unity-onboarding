@@ -2,6 +2,7 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
+// Тест коммент 2
 public class FireballAttack : MonoBehaviour
 {
     //Префаб огненного шара и параметр Transform точки атаки

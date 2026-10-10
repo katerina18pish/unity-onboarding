@@ -2,6 +2,7 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
+// Тест коммит
 public class Enemy : MonoBehaviour
 {
     //Скорость движения врага
